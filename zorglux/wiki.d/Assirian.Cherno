@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.9) Gecko/20071025 Firefox/2.0.0.9
+author=
+csum=
+ctime=1194104341
+host=82.225.66.3
+name=Assirian.Cherno
+rev=2
+targets=Assirian.Sarik
+text=!!Cherno%0a%0aFils de [[Sarik Al Keran -> Assirian.Sarik]] et d'une shamane d'amérique du sud, Cherno a recu des dons extraordinaires, il peut se déplacer dans l'espace et dans le temps à sa guise. Il a le pouvoir d'emmener des êtres avec lui pourvu qu'ils soient originaires de la terre où qu'ils supportent les téléportations. Autour de lui les objets anachroniques fonctionnent, c'est comme si il engendrait une zone de multi-réalités comme peuvent le faire les Chevaliers des Tempêtes. Cherno a aussi le don de ralentir et d'arrêter le temps.%0a%0aLes rapports entre Cherno et Sarik on été tendu au départ mais ils se sont améliorés par la suite. Cherno a une morale stricte et réfléchit beaucoup avant d'agir.%0a%0a
+time=1194106672
+author:1194106672=
+diff:1194106672:1194104341:=3,4c3,4%0a%3c Fils de [[Sarik Al Keran -> Assirian.Sarik]] et d'une shamane d'amérique du sud, Cherno a recu des dons extraordinaires, il peut se déplacer dans l'espace et dans le temps à sa guise. Il a le pouvoir d'emmener des êtres avec lui pourvu qu'ils soient originaires de la terre où qu'ils supportent les téléportations. Autour de lui les objets anachroniques fonctionnent, c'est comme si il engendrait une zone de multi-réalités comme peuvent le faire les Chevaliers des Tempêtes. Cherno a aussi le don de ralentir et d'arrêter le temps.%0a%3c %0a---%0a> Fils de [[Sarik Al Keran -> Assirian.Sarik]] et d'une shamane d'amérique du sud, Cherno a recu des dons extraordinaires, il peut se déplacer dans l'espace et dans le temps à sa guise. Il a le pouvoir d'emmener des êtres avec lui pourvu qu'ils soient originaires de la terre où qu'ils supportent les téléportations. Autour de lui les objets anachroniques fonctionnent, c'est comme si il engendrait une zone de multi-réalités comme peuvent le faire les Chevaliers des Tempêtes.%0a> %0a
+host:1194106672=82.225.66.3
+author:1194104341=
+diff:1194104341:1194104341:=1,6d0%0a%3c !!Cherno%0a%3c %0a%3c Fils de [[Sarik Al Keran -> Assirian.Sarik]] et d'une shamane d'amérique du sud, Cherno a recu des dons extraordinaires, il peut se déplacer dans l'espace et dans le temps à sa guise. Il a le pouvoir d'emmener des êtres avec lui pourvu qu'ils soient originaires de la terre où qu'ils supportent les téléportations. Autour de lui les objets anachroniques fonctionnent, c'est comme si il engendrait une zone de multi-réalités comme peuvent le faire les Chevaliers des Tempêtes.%0a%3c %0a%3c Les rapports entre Cherno et Sarik on été tendu au départ mais ils se sont améliorés par la suite. Cherno a une morale stricte et réfléchit beaucoup avant d'agir.%0a%3c %0a
+host:1194104341=82.225.66.3

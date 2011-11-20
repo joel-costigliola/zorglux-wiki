@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.13) Gecko/20101206 Ubuntu/10.10 (maverick) Firefox/3.6.13
+author=
+csum=
+ctime=1293226385
+host=82.225.66.3
+name=Assirian.Elios
+rev=1
+targets=
+text=!! Elios le Grand Prêtre de la Mort%0a%0aElios a l'apparence d'un squelette fantomatique, son crane lisse n'abrite que deux orbites vide et pourtant le point de son regard est considérable.\\%0aIl est généralement vêtu d'une longue toge noire, Elios ne s'exprime pas souvent, il observe de longues périodes de méditation.%0a%0a
+time=1293226385
+author:1293226385=
+diff:1293226385:1293226385:=1,5d0%0a%3c !! Elios le Grand Prêtre de la Mort%0a%3c %0a%3c Elios a l'apparence d'un squelette fantomatique, son crane lisse n'abrite que deux orbites vide et pourtant le point de son regard est considérable.\\%0a%3c Il est généralement vêtu d'une longue toge noire, Elios ne s'exprime pas souvent, il observe de longues périodes de méditation.%0a%3c %0a
+host:1293226385=82.225.66.3

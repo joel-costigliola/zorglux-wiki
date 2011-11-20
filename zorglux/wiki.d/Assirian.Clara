@@ -1,0 +1,23 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:2.0) Gecko/20100101 Firefox/4.0
+author=
+csum=
+ctime=1259103475
+host=82.225.66.3
+name=Assirian.Clara
+rev=4
+targets=Assirian.Sarik
+text=!!Clara%0a%0aFille de [[Sarik Al Keran -> Assirian.Sarik]] et d'une shamane d'amérique du sud, elle a hérité de ma nature de Dragon.\\%0aElle a bâtit un empire sur Terre, elle est d'une grande droiture et un caractère bien forgé.%0a%0aMa première rencontre avec elle remonte à mon deuxième voyage sur Terre dans lequel m'accompagnait Loki.\\%0aClara a poursuivi avec nous la quête nous amenant dans le passé de la terre à l'époque des Atlantes qui avait écrit les tables trouvées à Bark Nark.\\%0aElle est resté avec Loki visiter Arkadia alors que j'allais explorer les Contrées de la Nuit Éternelle.%0a%0a%0a
+time=1302205451
+author:1302205451=
+diff:1302205451:1302205434:=6,7c6,7%0a%3c Ma première rencontre avec elle remonte à mon deuxième voyage sur Terre dans lequel m'accompagnait Loki.\\%0a%3c Clara a poursuivi avec nous la quête nous amenant dans le passé de la terre à l'époque des Atlantes qui avait écrit les tables trouvées à Bark Nark.\\%0a---%0a> Ma première rencontre avec elle remonte à mon deuxième voyage sur Terre dans lequel m'accompagnait Loki.%0a> Clara a poursuivi avec nous la quête nous amenant dans le passé de la terre à l'époque des Atlantes qui avait écrit les tables trouvées à Bark Nark.%0a
+host:1302205451=82.225.66.3
+author:1302205434=
+diff:1302205434:1259883191:=4,10c4,6%0a%3c Elle a bâtit un empire sur Terre, elle est d'une grande droiture et un caractère bien forgé.%0a%3c %0a%3c Ma première rencontre avec elle remonte à mon deuxième voyage sur Terre dans lequel m'accompagnait Loki.%0a%3c Clara a poursuivi avec nous la quête nous amenant dans le passé de la terre à l'époque des Atlantes qui avait écrit les tables trouvées à Bark Nark.%0a%3c Elle est resté avec Loki visiter Arkadia alors que j'allais explorer les Contrées de la Nuit Éternelle.%0a%3c %0a%3c %0a---%0a> Elle a bâtit un empire sur Terre. %0a> %0a> Ma première rencontre avec elle remonte à mon deuxième voyage sur Terre.%0a\ No newline at end of file%0a
+host:1302205434=82.225.66.3
+author:1259883191=
+diff:1259883191:1259103475:=5,6d4%0a%3c %0a%3c Ma première rencontre avec elle remonte à mon deuxième voyage sur Terre.%0a\ No newline at end of file%0a
+host:1259883191=82.225.66.3
+author:1259103475=
+diff:1259103475:1259103475:=1,4d0%0a%3c !!Clara%0a%3c %0a%3c Fille de [[Sarik Al Keran -> Assirian.Sarik]] et d'une shamane d'amérique du sud, elle a hérité de ma nature de Dragon.\\%0a%3c Elle a bâtit un empire sur Terre. %0a
+host:1259103475=82.225.66.3

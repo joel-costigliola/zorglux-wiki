@@ -1,0 +1,26 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+author=
+csum=
+ctime=1189548016
+host=82.225.66.3
+name=Assirian.Races
+rev=5
+targets=
+text=!! Les races existantes sur Assirian%0a%0a%0aAssirian compte tellement de races différentes qu'il serait impossible de toutes les énumérer.\\%0aVoici cependant les principales races du monde : %0a* [[#elfe|Les Elfes]]%0a* [[#shakree|Les Shakrees]]%0a* [[#humain|Les Humains]]%0a* [[#terrien|Les Terriens]]%0a* [[#nain|Les Nains]]%0a* [[#homme-oiseau|Les Hommes Oiseau]]%0a* [[#homme-poisson|Les Hommes Poisson]]%0a* [[#orc|Les Orcs]]%0a* [[#dragon|Les Dragons]]%0a* [[#demon|Les Démons]]%0a%0a----%0a!!!!![[#elfe]]Les Elfes%0a%0a----%0a!!!!![[#Schisme-Realites]]Les Shakrees%0a%0a----%0a!!!!![[#humain]]Les Humains%0a%0a----%0a!!!!![[#terrien]]Les Terriens%0a%0a----%0a!!!!![[#nain]]Les Nains%0a%0a----%0a!!!!![[#orc]]Les Orcs%0a%0a----%0a!!!!![[#dragon]]Les Dragons%0a%0a----%0a!!!!![[#demon]]Les Démons%0a
+time=1318272229
+author:1318272229=
+diff:1318272229:1318272179:=13d12%0a%3c * [[#orc|Les Orcs]]%0a33,35d31%0a%3c !!!!![[#orc]]Les Orcs%0a%3c %0a%3c ----%0a39c35%0a%3c !!!!![[#demon]]Les Démons%0a---%0a> !!!!![[#dragon]]Les Démons%0a
+host:1318272229=82.225.66.3
+author:1318272179=
+diff:1318272179:1318272120:=4,5c4%0a%3c Assirian compte tellement de races différentes qu'il serait impossible de toutes les énumérer.\\%0a%3c Voici cependant les principales races du monde : %0a---%0a> Assrian compte tellement de races différentes qu'il serait impossible de toutes les énumérer, voici cependant les principales races du monde : %0a14,15c13%0a%3c * [[#demon|Les Démons]]%0a%3c %0a---%0a> %0a33,35d30%0a%3c %0a%3c ----%0a%3c !!!!![[#dragon]]Les Démons%0a
+host:1318272179=82.225.66.3
+author:1318272120=
+diff:1318272120:1318272110:=19a20,22%0a> Le schisme des réalités a divisé Assirian en région où la magie, la technologie et la foi ont des niveaux complètement différents.\\%0a> Ces réalités sont séparées par des frontières de réalités fort dangereuses à traverser.%0a> %0a
+host:1318272120=82.225.66.3
+author:1318272110=
+diff:1318272110:1189548016:=3,33c3%0a%3c %0a%3c Assrian compte tellement de races différentes qu'il serait impossible de toutes les énumérer, voici cependant les principales races du monde : %0a%3c * [[#elfe|Les Elfes]]%0a%3c * [[#shakree|Les Shakrees]]%0a%3c * [[#humain|Les Humains]]%0a%3c * [[#terrien|Les Terriens]]%0a%3c * [[#nain|Les Nains]]%0a%3c * [[#homme-oiseau|Les Hommes Oiseau]]%0a%3c * [[#homme-poisson|Les Hommes Poisson]]%0a%3c * [[#dragon|Les Dragons]]%0a%3c %0a%3c ----%0a%3c !!!!![[#elfe]]Les Elfes%0a%3c %0a%3c ----%0a%3c !!!!![[#Schisme-Realites]]Les Shakrees%0a%3c %0a%3c Le schisme des réalités a divisé Assirian en région où la magie, la technologie et la foi ont des niveaux complètement différents.\\%0a%3c Ces réalités sont séparées par des frontières de réalités fort dangereuses à traverser.%0a%3c %0a%3c ----%0a%3c !!!!![[#humain]]Les Humains%0a%3c %0a%3c ----%0a%3c !!!!![[#terrien]]Les Terriens%0a%3c %0a%3c ----%0a%3c !!!!![[#nain]]Les Nains%0a%3c %0a%3c ----%0a%3c !!!!![[#dragon]]Les Dragons%0a---%0a> ''(TODO)''%0a\ No newline at end of file%0a
+host:1318272110=82.225.66.3
+author:1189548016=
+diff:1189548016:1189548016:=1,3d0%0a%3c !! Les races existantes sur Assirian%0a%3c %0a%3c ''(TODO)''%0a\ No newline at end of file%0a
+host:1189548016=82.225.66.3

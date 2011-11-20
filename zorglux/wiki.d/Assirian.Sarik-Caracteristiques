@@ -1,0 +1,44 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+author=
+csum=
+ctime=1291155218
+host=82.225.66.3
+name=Assirian.Sarik-Caracteristiques
+rev=11
+targets=Assirian.Sarik
+text=!!Caractéristiques de [[Sarik Al Keran -> Assirian.Sarik]]%0a%0a----%0a%0a'''Scores des caractéristiques communes'''%0a%0aCes scores ont une base de 20.%0a%0a|| class=carac border=1 cellspacing=0 %0a||[[Constitution -> #Constitution]] 	||35 ||[[Feeling -> #Feeling]] 		||41 ||%0a||[[Force -> #Force]] 			||23 ||[[Perception -> #Perception]] 	||26 ||%0a||[[Vitesse -> #Vitesse]] 		||24 ||- [[Vue -> #Vue]] 		||26 ||%0a||[[Dextérité -> #Dexterite]] 		||21 ||- [[Ouie -> #Ouie]] 		||27 ||%0a||[[Sagesse -> #Sagesse]] 		||17 ||- [[Odorat -> #Odorat]] 		||25 ||%0a||[[Intelligence -> #Intelligence]] 	||25 ||- [[Toucher -> #Toucher]]	||25 ||%0a||[[Charisme -> #Charisme]] 		||27 ||- [[Gout -> #Gout]] 		||24 ||%0a%0a----%0a%0a'''Scores des caractéristiques mentales'''%0a%0aCes scores ont une base de 100.%0a%0a%0a|| class=carac border=1 cellspacing=0 %0a||[[Autodiscipline -> #Autodiscipline]]  ||137 ||[[Potentiel psychique -> #Potentiel-psychique]]	||100 ||%0a||[[Stabilité mentale -> #Stab-mentale]] ||94  ||[[Esprit combatif-> #Esprit-combatif]] 	||40 ||%0a||[[Force mentale -> #Force-mentale]] 	 ||160 ||Claustrophobie 		||9 ||%0a%0a----%0a%0a'''Détails des caractéristiques'''%0a%0a!!!!![[#Constitution]]Constitution%0a%0a!!!!![[#Force]] Force%0a%0a!!!!![[#Vitesse]] Vitesse%0a%0a!!!!![[#Dexterite]] Dextérité%0a%0a!!!!![[#Intelligence]] Intelligence%0a%0a!!!!![[#Sagesse]] Sagesse%0a%0a!!!!![[#Charisme]] Charisme%0a%0a!!!!![[#Feeling]] Feeling%0a%0a!!!!![[#Perception]] Perception%0a
+time=1318875677
+author:1318875677=
+diff:1318875677:1313612836:=16,17c16,17%0a%3c ||[[Charisme -> #Charisme]] 		||27 ||- [[Gout -> #Gout]] 		||24 ||%0a%3c %0a---%0a> ||[[Charisme -> #Charisme]] 		||26 ||- [[Gout -> #Gout]] 		||24 ||%0a> %0a26,29c26,29%0a%3c ||[[Autodiscipline -> #Autodiscipline]]  ||137 ||[[Potentiel psychique -> #Potentiel-psychique]]	||100 ||%0a%3c ||[[Stabilité mentale -> #Stab-mentale]] ||94  ||[[Esprit combatif-> #Esprit-combatif]] 	||40 ||%0a%3c ||[[Force mentale -> #Force-mentale]] 	 ||160 ||Claustrophobie 		||9 ||%0a%3c %0a---%0a> ||[[Autodiscipline -> #Autodiscipline]]  ||134 ||[[Potentiel psychique -> #Potentiel-psychique]]	||100 ||%0a> ||[[Stabilité mentale -> #Stab-mentale]] ||94  ||[[Esprit combatif-> #Esprit-combatif]] 	||23 ||%0a> ||[[Force mentale -> #Force-mentale]] 	 ||160 || 		|| ||%0a> %0a
+host:1318875677=82.225.66.3
+author:1313612836=
+diff:1313612836:1291675285:=10c10%0a%3c ||[[Constitution -> #Constitution]] 	||35 ||[[Feeling -> #Feeling]] 		||41 ||%0a---%0a> ||[[Constitution -> #Constitution]] 	||35 ||[[Feeling -> #Feeling]] 		||40 ||%0a26c26%0a%3c ||[[Autodiscipline -> #Autodiscipline]]  ||134 ||[[Potentiel psychique -> #Potentiel-psychique]]	||100 ||%0a---%0a> ||[[Autodiscipline -> #Autodiscipline]]  ||131 ||[[Potentiel psychique -> #Potentiel-psychique]]	||100 ||%0a28,29c28,29%0a%3c ||[[Force mentale -> #Force-mentale]] 	 ||160 || 		|| ||%0a%3c %0a---%0a> ||[[Force mentale -> #Force-mentale]] 	 ||157 || 		|| ||%0a> %0a40,41c40,41%0a%3c !!!!![[#Dexterite]] Dextérité%0a%3c %0a---%0a> !!!!![[#Dextérité]] Dexterite%0a> %0a
+host:1313612836=82.225.66.3
+author:1291675285=
+diff:1291675285:1291675035:=12c12%0a%3c ||[[Vitesse -> #Vitesse]] 		||24 ||- [[Vue -> #Vue]] 		||26 ||%0a---%0a> ||[[Vitesse -> #Vitesse]] 		||24 ||- [[Vue -> #Vue]] 			||26 ||%0a15c15%0a%3c ||[[Intelligence -> #Intelligence]] 	||25 ||- [[Toucher -> #Toucher]]	||25 ||%0a---%0a> ||[[Intelligence -> #Intelligence]] 	||25 ||- [[Toucher -> #Toucher]]		||25 ||%0a24,33d23%0a%3c %0a%3c || class=carac border=1 cellspacing=0 %0a%3c ||[[Autodiscipline -> #Autodiscipline]]  ||131 ||[[Potentiel psychique -> #Potentiel-psychique]]	||100 ||%0a%3c ||[[Stabilité mentale -> #Stab-mentale]] ||94  ||[[Esprit combatif-> #Esprit-combatif]] 	||23 ||%0a%3c ||[[Force mentale -> #Force-mentale]] 	 ||157 || 		|| ||%0a%3c %0a%3c ----%0a%3c %0a%3c '''Détails des caractéristiques'''%0a%3c %0a
+host:1291675285=82.225.66.3
+author:1291675035=
+diff:1291675035:1291675014:=5,6c5,6%0a%3c '''Scores des caractéristiques communes'''%0a%3c %0a---%0a> '''Scores des caractéristiques de base'''%0a> %0a
+host:1291675035=82.225.66.3
+author:1291675014=
+diff:1291675014:1291674649:=3,8d2%0a%3c ----%0a%3c %0a%3c '''Scores des caractéristiques de base'''%0a%3c %0a%3c Ces scores ont une base de 20.%0a%3c %0a18,23d11%0a%3c ----%0a%3c %0a%3c '''Scores des caractéristiques mentales'''%0a%3c %0a%3c Ces scores ont une base de 100.%0a%3c %0a
+host:1291675014=82.225.66.3
+author:1291674649=
+diff:1291674649:1291674618:=6,11c6,11%0a%3c ||[[Vitesse -> #Vitesse]] 		||24 ||- [[Vue -> #Vue]] 			||26 ||%0a%3c ||[[Dextérité -> #Dexterite]] 		||21 ||- [[Ouie -> #Ouie]] 		||27 ||%0a%3c ||[[Sagesse -> #Sagesse]] 		||17 ||- [[Odorat -> #Odorat]] 		||25 ||%0a%3c ||[[Intelligence -> #Intelligence]] 	||25 ||- [[Toucher -> #Toucher]]		||25 ||%0a%3c ||[[Charisme -> #Charisme]] 		||26 ||- [[Gout -> #Gout]] 		||24 ||%0a%3c %0a---%0a> ||[[Vitesse -> #Vitesse]] 		||24 ||[[- Vue -> #Vue]] 			||26 ||%0a> ||[[Dextérité -> #Dexterite]] 		||21 ||[[- Ouie -> #Ouie]] 		||27 ||%0a> ||[[Sagesse -> #Sagesse]] 		||17 ||[[- Odorat -> #Odorat]] 		||25 ||%0a> ||[[Intelligence -> #Intelligence]] 	||25 ||[[- Toucher -> #Toucher]]		||25 ||%0a> ||[[Charisme -> #Charisme]] 		||26 ||[[- Gout -> #Gout]] 		||24 ||%0a> %0a
+host:1291674649=82.225.66.3
+author:1291674618=
+diff:1291674618:1291674559:=6,11c6,11%0a%3c ||[[Vitesse -> #Vitesse]] 		||24 ||[[- Vue -> #Vue]] 			||26 ||%0a%3c ||[[Dextérité -> #Dexterite]] 		||21 ||[[- Ouie -> #Ouie]] 		||27 ||%0a%3c ||[[Sagesse -> #Sagesse]] 		||17 ||[[- Odorat -> #Odorat]] 		||25 ||%0a%3c ||[[Intelligence -> #Intelligence]] 	||25 ||[[- Toucher -> #Toucher]]		||25 ||%0a%3c ||[[Charisme -> #Charisme]] 		||26 ||[[- Gout -> #Gout]] 		||24 ||%0a%3c %0a---%0a> ||[[Vitesse -> #Vitesse]] 		||24 ||[[Vue -> #Vue]] 			||26 ||%0a> ||[[Dextérité -> #Dexterite]] 		||21 ||[[Ouie -> #Ouie]] 		||27 ||%0a> ||[[Sagesse -> #Sagesse]] 		||17 ||[[Odorat -> #Odorat]] 		||25 ||%0a> ||[[Intelligence -> #Intelligence]] 	||25 ||[[Toucher -> #Toucher]]		||25 ||%0a> ||[[Charisme -> #Charisme]] 		||26 ||[[Gout -> #Gout]] 		||24 ||%0a> %0a
+host:1291674618=82.225.66.3
+author:1291674559=
+diff:1291674559:1291674365:=3c3%0a%3c || class=carac border=1 cellspacing=0 %0a---%0a> || class=column border=1 cellspacing=0 width:400px%0a
+host:1291674559=82.225.66.3
+author:1291674365=
+diff:1291674365:1291674173:=3c3%0a%3c || class=column border=1 cellspacing=0 width:400px%0a---%0a> || class=comp border=1 cellspacing=0 width:400px%0a
+host:1291674365=82.225.66.3
+author:1291674173=
+diff:1291674173:1291155218:=3,11c3,12%0a%3c || class=comp border=1 cellspacing=0 width:400px%0a%3c ||[[Constitution -> #Constitution]] 	||35 ||[[Feeling -> #Feeling]] 		||40 ||%0a%3c ||[[Force -> #Force]] 			||23 ||[[Perception -> #Perception]] 	||26 ||%0a%3c ||[[Vitesse -> #Vitesse]] 		||24 ||[[Vue -> #Vue]] 			||26 ||%0a%3c ||[[Dextérité -> #Dexterite]] 		||21 ||[[Ouie -> #Ouie]] 		||27 ||%0a%3c ||[[Sagesse -> #Sagesse]] 		||17 ||[[Odorat -> #Odorat]] 		||25 ||%0a%3c ||[[Intelligence -> #Intelligence]] 	||25 ||[[Toucher -> #Toucher]]		||25 ||%0a%3c ||[[Charisme -> #Charisme]] 		||26 ||[[Gout -> #Gout]] 		||24 ||%0a%3c %0a---%0a> * [[Constitution -> #Constitution]]%0a> * [[Force -> #Force]]%0a> * [[Vitesse -> #Vitesse]]%0a> * [[Dextérité -> #Dexterite]]%0a> * [[Intelligence -> #Intelligence]]%0a> * [[Sagesse -> #Sagesse]]%0a> * [[Charisme -> #Charisme]]%0a> * [[Feeling -> #Feeling]]%0a> * [[Perception -> #Perception]]%0a> %0a
+host:1291674173=82.225.66.3
+author:1291155218=
+diff:1291155218:1291155218:=1,29d0%0a%3c !!Caractéristiques de [[Sarik Al Keran -> Assirian.Sarik]]%0a%3c %0a%3c * [[Constitution -> #Constitution]]%0a%3c * [[Force -> #Force]]%0a%3c * [[Vitesse -> #Vitesse]]%0a%3c * [[Dextérité -> #Dexterite]]%0a%3c * [[Intelligence -> #Intelligence]]%0a%3c * [[Sagesse -> #Sagesse]]%0a%3c * [[Charisme -> #Charisme]]%0a%3c * [[Feeling -> #Feeling]]%0a%3c * [[Perception -> #Perception]]%0a%3c %0a%3c !!!!![[#Constitution]]Constitution%0a%3c %0a%3c !!!!![[#Force]] Force%0a%3c %0a%3c !!!!![[#Vitesse]] Vitesse%0a%3c %0a%3c !!!!![[#Dextérité]] Dexterite%0a%3c %0a%3c !!!!![[#Intelligence]] Intelligence%0a%3c %0a%3c !!!!![[#Sagesse]] Sagesse%0a%3c %0a%3c !!!!![[#Charisme]] Charisme%0a%3c %0a%3c !!!!![[#Feeling]] Feeling%0a%3c %0a%3c !!!!![[#Perception]] Perception%0a
+host:1291155218=82.225.66.3

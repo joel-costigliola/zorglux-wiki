@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+author=
+csum=
+ctime=1189462641
+host=82.225.66.3
+name=Assirian.Hakim
+rev=1
+targets=Assirian.Arakir,Assirian.ChateauSuif
+text=!!Hakim%0a%0aHakim a découvert sa nature de Nephilim avec l'aide de Sarik Al Keran, il est originaire du désert d'[[Arakir -> Assirian.Arakir]], a la cinquantaine bien portante.\\%0aIl a trouvé un mentor à [[Château Suif -> Assirian.ChateauSuif]] en la personne de ''Courroux de l'épée vengeresse enflammée''.
+time=1189462641
+author:1189462641=
+diff:1189462641:1189462641:=1,4d0%0a%3c !!Hakim%0a%3c %0a%3c Hakim a découvert sa nature de Nephilim avec l'aide de Sarik Al Keran, il est originaire du désert d'[[Arakir -> Assirian.Arakir]], a la cinquantaine bien portante.\\%0a%3c Il a trouvé un mentor à [[Château Suif -> Assirian.ChateauSuif]] en la personne de ''Courroux de l'épée vengeresse enflammée''.%0a\ No newline at end of file%0a
+host:1189462641=82.225.66.3
