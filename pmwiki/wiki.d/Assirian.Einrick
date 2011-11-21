@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5
+author=
+csum=
+ctime=1258929986
+host=82.225.66.3
+name=Assirian.Einrick
+rev=2
+targets=Assirian.Emerich
+text=!!Einrick%0a%0a%0aEinrick possède un don spécial au combat, il peut fixer l'attention d'un adversaire lorsqu'il croise son regard, ce dernier se désintéresse du reste du combat pour ne se concentrer que sur Einrick. Einrick manie fort bien le cimeterre, la lance et le bouclier, il a en outre un niveau élevé en parade, j'ai beaucoup de mal à le toucher à l'entrainement, je note d'ailleurs qu'il n'est jamais surpris par mes translations. Einrick  porte l'armure de diamant d'[[Emerich de Porlevent -> Assirian.Emerich]]%0a %0a
+time=1258930058
+author:1258930058=
+diff:1258930058:1258929986:=4c4,6%0a%3c Einrick possède un don spécial au combat, il peut fixer l'attention d'un adversaire lorsqu'il croise son regard, ce dernier se désintéresse du reste du combat pour ne se concentrer que sur Einrick. Einrick manie fort bien le cimeterre, la lance et le bouclier, il a en outre un niveau élevé en parade, j'ai beaucoup de mal à le toucher à l'entrainement, je note d'ailleurs qu'il n'est jamais surpris par mes translations. Einrick  porte l'armure de diamant d'[[Emerich de Porlevent -> Assirian.Emerich]]%0a---%0a> Ufgamok est un troll qui a été quelque temps un compagnon d'arme de [[Sarik Al Keran -> Assirian.Sarik]], Ufgamok a été "objetisé" et fait maintenant partie de l'inventaire géré par Maj, il sert de réserve de sang frais pour Sarik en cas de manque ! Ufgamok a reçu le don de pouvoir retourner la force d'un coup porté par un adversaire contre ce dernier tant que le coup en question ne dépasse pas une certaine puissance, cela en fait un combattant redoutable insensible aux coups en deçà de cette limite. En outre, il est revêtu d'une chemise de maille ultra résistante.\\\%0a> %0a> Ufgamok a failli causé de gros ennuis à Sarik en interprétant mal ses ordres vis à vis d'Armarielle entrainant la colère d'[[Emerich de Porlevent -> Assirian.Emerich]] le soupirant officiel de la jeune elfe, heureusement l'affaire s'est bien terminé (avec quelques contusions tout de même).%0a
+host:1258930058=82.225.66.3
+author:1258929986=
+diff:1258929986:1258929986:=1,7d0%0a%3c !!Einrick%0a%3c %0a%3c %0a%3c Ufgamok est un troll qui a été quelque temps un compagnon d'arme de [[Sarik Al Keran -> Assirian.Sarik]], Ufgamok a été "objetisé" et fait maintenant partie de l'inventaire géré par Maj, il sert de réserve de sang frais pour Sarik en cas de manque ! Ufgamok a reçu le don de pouvoir retourner la force d'un coup porté par un adversaire contre ce dernier tant que le coup en question ne dépasse pas une certaine puissance, cela en fait un combattant redoutable insensible aux coups en deçà de cette limite. En outre, il est revêtu d'une chemise de maille ultra résistante.\\\%0a%3c %0a%3c Ufgamok a failli causé de gros ennuis à Sarik en interprétant mal ses ordres vis à vis d'Armarielle entrainant la colère d'[[Emerich de Porlevent -> Assirian.Emerich]] le soupirant officiel de la jeune elfe, heureusement l'affaire s'est bien terminé (avec quelques contusions tout de même).%0a%3c  %0a
+host:1258929986=82.225.66.3

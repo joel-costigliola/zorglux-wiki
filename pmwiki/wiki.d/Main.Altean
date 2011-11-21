@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+author=
+csum=
+ctime=1187183707
+host=82.225.66.3
+name=Main.Altean
+rev=2
+targets=
+text=Ici sont racontées les légendes des contrées d'Assirian
+time=1187183717
+author:1187183717=
+diff:1187183717:1187183707:=1c1%0a%3c Ici sont racontées les légendes des contrées d'Assirian%0a\ No newline at end of file%0a---%0a> ci sont racontées les légendes des contrées d'Assirian%0a\ No newline at end of file%0a
+host:1187183717=82.225.66.3
+author:1187183707=
+diff:1187183707:1187183707:=1d0%0a%3c ci sont racontées les légendes des contrées d'Assirian%0a\ No newline at end of file%0a
+host:1187183707=82.225.66.3

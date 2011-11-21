@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+author=
+csum=
+ctime=1189292502
+host=82.225.66.3
+name=Assirian.Bo
+rev=1
+targets=
+text=!!Bo%0a%0a''(à compléter)''
+time=1189292502
+author:1189292502=
+diff:1189292502:1189292502:=1,3d0%0a%3c !!Bo%0a%3c %0a%3c ''(à compléter)''%0a\ No newline at end of file%0a
+host:1189292502=82.225.66.3

@@ -1,0 +1,23 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.12) Gecko/20101027 Ubuntu/10.10 (maverick) Firefox/3.6.12
+author=
+csum=
+ctime=1189547206
+host=82.225.66.3
+name=Assirian.Sorn
+rev=4
+targets=Assirian.Assirian,Assirian.Bo,Assirian.ChateauSuif
+text=!!Sorn%0a%0aSorn était le plus grand assassin de son époque, juste avant le [[Grand Cataclysme -> Assirian.Assirian#Grand-Cataclysme]], il a assassiné Roi Nain et a été maudit pour cela. Sorn n'évolue plus physiquement son corps est comme figé, le temps n'a plus d'emprise sur lui. Sorn est certainement l'un des derniers être à avoir connu l'époque d'avant cataclysme et à avoir visité les terres de [[Bo -> Assirian.Bo]].\\\%0a%0aSa malédiction l'empêche de tuer des êtres vivants (mais pas les morts vivants), il est victime de cauchemars chaque nuit lui rappelant sans cesse l'horreur de ses actes.\\\%0a%0aIl travaille actuellement pour [[Château Suif -> Assirian.ChateauSuif]].%0a%0a%0a
+time=1291418001
+author:1291418001=
+diff:1291418001:1190061081:=5,6c5,6%0a%3c Sa malédiction l'empêche de tuer des êtres vivants (mais pas les morts vivants), il est victime de cauchemars chaque nuit lui rappelant sans cesse l'horreur de ses actes.\\\%0a%3c %0a---%0a> Sa malédiction l'empêche de tuer des êtres vivants, il est aussi victime de cauchemars chaque nuit.\\\%0a> %0a
+host:1291418001=82.225.66.3
+author:1190061081=
+diff:1190061081:1189547982:=3,4c3,4%0a%3c Sorn était le plus grand assassin de son époque, juste avant le [[Grand Cataclysme -> Assirian.Assirian#Grand-Cataclysme]], il a assassiné Roi Nain et a été maudit pour cela. Sorn n'évolue plus physiquement son corps est comme figé, le temps n'a plus d'emprise sur lui. Sorn est certainement l'un des derniers être à avoir connu l'époque d'avant cataclysme et à avoir visité les terres de [[Bo -> Assirian.Bo]].\\\%0a%3c %0a---%0a> Sorn était le plus grand assassin de son époque, juste avant le [[Grand Cataclysme -> Assirian.Assirian#Grand-Cataclysme]], il a assassiné Roi Nain et a été maudit pour cela. Sorn n'a pas évolué physiquement son corps est comme figé, le temps n'a plus d'emprise sur lui. Sorn est certainement l'un des derniers être à avoir connu l'époque d'avant cataclysme et à avoir visité les terres de [[Bo -> Assirian.Bo]].\\\%0a> %0a
+host:1190061081=82.225.66.3
+author:1189547982=
+diff:1189547982:1189547206:=3,4c3,4%0a%3c Sorn était le plus grand assassin de son époque, juste avant le [[Grand Cataclysme -> Assirian.Assirian#Grand-Cataclysme]], il a assassiné Roi Nain et a été maudit pour cela. Sorn n'a pas évolué physiquement son corps est comme figé, le temps n'a plus d'emprise sur lui. Sorn est certainement l'un des derniers être à avoir connu l'époque d'avant cataclysme et à avoir visité les terres de [[Bo -> Assirian.Bo]].\\\%0a%3c %0a---%0a> Sorn était le plus grand assassin de son époque, juste avant le [[Grand Cataclysme -> Assirian.Grand-Cataclysme]], il a assassiné Roi Nain et a été maudit pour cela. Sorn n'a pas évolué physiquement son corps est comme figé, le temps n'a plus d'emprise sur lui. Sorn est certainement l'un des derniers être à avoir connu l'époque d'avant cataclysme et à avoir visité les terres de [[Bo -> Assirian.Bo]].\\\%0a> %0a
+host:1189547982=82.225.66.3
+author:1189547206=
+diff:1189547206:1189547206:=1,9d0%0a%3c !!Sorn%0a%3c %0a%3c Sorn était le plus grand assassin de son époque, juste avant le [[Grand Cataclysme -> Assirian.Grand-Cataclysme]], il a assassiné Roi Nain et a été maudit pour cela. Sorn n'a pas évolué physiquement son corps est comme figé, le temps n'a plus d'emprise sur lui. Sorn est certainement l'un des derniers être à avoir connu l'époque d'avant cataclysme et à avoir visité les terres de [[Bo -> Assirian.Bo]].\\\%0a%3c %0a%3c Sa malédiction l'empêche de tuer des êtres vivants, il est aussi victime de cauchemars chaque nuit.\\\%0a%3c %0a%3c Il travaille actuellement pour [[Château Suif -> Assirian.ChateauSuif]].%0a%3c %0a%3c %0a
+host:1189547206=82.225.66.3

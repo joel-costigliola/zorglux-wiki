@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+author=
+csum=
+ctime=1189462674
+host=82.225.66.3
+name=Assirian.Arakir
+rev=1
+targets=
+text=!!Arakir
+time=1189462674
+author:1189462674=
+diff:1189462674:1189462674:=1d0%0a%3c !!Arakir%0a\ No newline at end of file%0a
+host:1189462674=82.225.66.3

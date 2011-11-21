@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+author=
+csum=
+ctime=1189291553
+host=82.225.66.3
+name=Assirian.Fencyr
+rev=1
+targets=Assirian.Surayin,Assirian.Sarik
+text=!!Fencyr%0a%0aLes terres de Fencyr sont pour une grande partie un désert aride, c'est une région à forte amplitude thermique.\\%0a%0aLe grand désert abrite les thaxs aériens, créature entrant dans la composition du [[surayin -> Assirian.Surayin]] de [[Sarik Al Keran -> Assirian.Sarik]].
+time=1189291553
+author:1189291553=
+diff:1189291553:1189291553:=1,5d0%0a%3c !!Fencyr%0a%3c %0a%3c Les terres de Fencyr sont pour une grande partie un désert aride, c'est une région à forte amplitude thermique.\\%0a%3c %0a%3c Le grand désert abrite les thaxs aériens, créature entrant dans la composition du [[surayin -> Assirian.Surayin]] de [[Sarik Al Keran -> Assirian.Sarik]].%0a\ No newline at end of file%0a
+host:1189291553=82.225.66.3

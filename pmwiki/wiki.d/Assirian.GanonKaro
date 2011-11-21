@@ -1,0 +1,20 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.10) Gecko/20100915 Ubuntu/9.10 (karmic) Firefox/3.6.10
+author=
+csum=
+ctime=1285971201
+host=82.225.66.3
+name=Assirian.GanonKaro
+rev=3
+targets=
+text=!! Le Ganon Karo%0a%0aLe Ganon Karo est un endroit mythique, c'est un puits où se concentrent des cascades d'énergies cosmiques, un lieu de pouvoir naturel unique sur Assirian.\\%0aLe Château de Forges se situe à coté du Ganon Karo, en fait il n'existe que par sa présence. Les Nains profitent de sa puissance pour forger des œuvres qui ne seraient pas concevables ailleurs. %0a%0aLe Ganon Karo est le lieu où Sarik Al Keran a procédé à l'Appel des Dragons qui a libéré les Dragons de la Nuit Éternelle.
+time=1285971385
+author:1285971385=
+diff:1285971385:1285971290:=5,6d4%0a%3c %0a%3c Le Ganon Karo est le lieu où Sarik Al Keran a procédé à l'Appel des Dragons qui a libéré les Dragons de la Nuit Éternelle.%0a\ No newline at end of file%0a
+host:1285971385=82.225.66.3
+author:1285971290=
+diff:1285971290:1285971201:=3,4c3,5%0a%3c Le Ganon Karo est un endroit mythique, c'est un puits où se concentrent des cascades d'énergies cosmiques, un lieu de pouvoir naturel unique sur Assirian.\\%0a%3c Le Château de Forges se situe à coté du Ganon Karo, en fait il n'existe que par sa présence. Les Nains profitent de sa puissance pour forger des œuvres qui ne seraient pas concevables ailleurs. %0a---%0a> Le Ganon Karo est un endroit mythique, c'est un puits où se concentrent des cascades d'énergies cosmiques, un lieu de pouvoir naturel unique sur Assirian.%0a> %0a> Le Château de Forges se situe à coté du Ganon Karo, en fait il n'existe que par sa présence.%0a
+host:1285971290=82.225.66.3
+author:1285971201=
+diff:1285971201:1285971201:=1,5d0%0a%3c !! Le Ganon Karo%0a%3c %0a%3c Le Ganon Karo est un endroit mythique, c'est un puits où se concentrent des cascades d'énergies cosmiques, un lieu de pouvoir naturel unique sur Assirian.%0a%3c %0a%3c Le Château de Forges se situe à coté du Ganon Karo, en fait il n'existe que par sa présence.%0a
+host:1285971201=82.225.66.3
