@@ -1,0 +1,23 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0
+author=
+csum=
+ctime=1323295763
+host=82.225.66.3
+name=Assirian.Mars
+rev=4
+targets=
+text=!! Mars le Champion des Arènes de Padryn%0a%0a\\%0aMars est un combattant humain expérimenté proche de la cinquantaine, son visage émane la sagesse de celui qui a combattu et survécu à de nombreux affrontements. Il ne porte pas vraiment les stigmates de ses combats grâce à son don de régénération.\\%0aMars est quelqu'un d'amène, sur de sa force mais pas prétentieux, il a dépassé le stade de la recherche de la gloire, sa vraie motivation est de parvenir à l'excellence du combat.%0a%0a%0a
+time=1323469599
+author:1323469599=
+diff:1323469599:1323295894:=4c4%0a%3c Mars est un combattant humain expérimenté proche de la cinquantaine, son visage émane la sagesse de celui qui a combattu et survécu à de nombreux affrontements. Il ne porte pas vraiment les stigmates de ses combats grâce à son don de régénération.\\%0a---%0a> Mars est un combattant humain expérimenté proche de la cinquantaine, son visage émane la sagesse de celui qui a combattu et survécu à de nombreux affrontements.\\%0a
+host:1323469599=82.225.66.3
+author:1323295894=
+diff:1323295894:1323295770:=4,7c4,6%0a%3c Mars est un combattant humain expérimenté proche de la cinquantaine, son visage émane la sagesse de celui qui a combattu et survécu à de nombreux affrontements.\\%0a%3c Mars est quelqu'un d'amène, sur de sa force mais pas prétentieux, il a dépassé le stade de la recherche de la gloire, sa vraie motivation est de parvenir à l'excellence du combat.%0a%3c %0a%3c %0a---%0a> Mars est un combattant humain expérimenté proche de la cinquantaine, son visage émane la sagesse de celui qui a combattu et survécu à de nombreux affrontements. Mars est quelqu'un d'amène, sur de sa force mais pas prétentieux, il a dépassé le stade de la recherche de la gloire, sa vraie motivation est de parvenir à l'excellence du combat.%0a> %0a> %0a
+host:1323295894=82.225.66.3
+author:1323295770=
+diff:1323295770:1323295763:=3d2%0a%3c \\%0a
+host:1323295770=82.225.66.3
+author:1323295763=
+diff:1323295763:1323295763:=1,5d0%0a%3c !! Mars le Champion des Arènes de Padryn%0a%3c %0a%3c Mars est un combattant humain expérimenté proche de la cinquantaine, son visage émane la sagesse de celui qui a combattu et survécu à de nombreux affrontements. Mars est quelqu'un d'amène, sur de sa force mais pas prétentieux, il a dépassé le stade de la recherche de la gloire, sa vraie motivation est de parvenir à l'excellence du combat.%0a%3c %0a%3c %0a
+host:1323295763=82.225.66.3

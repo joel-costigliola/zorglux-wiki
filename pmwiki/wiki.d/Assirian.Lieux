@@ -1,14 +1,20 @@
 version=pmwiki-2.1.27 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (X11; Linux x86_64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+agent=Mozilla/5.0 (Windows NT 6.0; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
 author=
 csum=
 ctime=1188334238
 host=82.225.66.3
 name=Assirian.Lieux
-rev=18
-targets=Assirian.Empire,Assirian.Capitale,Assirian.Ile,Assirian.Padryn,Assirian.CoeurVert,Assirian.Lunaris,Assirian.Arkadia,Assirian.NuitEternelle,Assirian.ChateauSuif,Assirian.Arakir,Assirian.GanonKaro,Assirian.Citadelle-Noire
-text=!!Les principaux lieux d'Assirian%0a%0a*[[L'Empire d'Oshimo -> Assirian.Empire]] et [[Shotrakino -> Assirian.Capitale]] sa capitale%0a*[[L'Ile du Pic de l'Aiguille -> Assirian.Ile]]%0a*[[Padryn -> Assirian.Padryn]]%0a*[[Le Cœur Vert -> Assirian.CoeurVert]]%0a*[[Lunaris -> Assirian.Lunaris]]%0a*[[Arkadia -> Assirian.Arkadia]]%0a*[[Les contrées de la Nuit Eternelle -> Assirian.NuitEternelle]]%0a*[[Château Suif -> Assirian.ChateauSuif]]%0a*[[Le grand désert d'Arakir -> Assirian.Arakir]]%0a*[[Le Ganon Karo -> Assirian.GanonKaro]]%0a*[[La Citadelle Noire -> Assirian.Citadelle-Noire]]%0a
-time=1321717362
+rev=20
+targets=Assirian.Empire,Assirian.Capitale,Assirian.Ile,Assirian.Padryn,Assirian.CoeurVert,Assirian.Lunaris,Assirian.Arkadia,Assirian.NuitEternelle,Assirian.ChateauSuif,Assirian.Arakir,Assirian.GanonKaro,Assirian.Citadelle-Noire,Assirian.Fencyr,Assirian.Gouffre
+text=!!Les principaux lieux d'Assirian%0a%0a*[[L'Empire d'Oshimo -> Assirian.Empire]] et [[Shotrakino -> Assirian.Capitale]] sa capitale%0a*[[L'Ile du Pic de l'Aiguille -> Assirian.Ile]]%0a*[[Padryn -> Assirian.Padryn]]%0a*[[Le Cœur Vert -> Assirian.CoeurVert]]%0a*[[Lunaris -> Assirian.Lunaris]]%0a*[[Arkadia -> Assirian.Arkadia]]%0a*[[Les contrées de la Nuit Eternelle -> Assirian.NuitEternelle]]%0a*[[Château Suif -> Assirian.ChateauSuif]]%0a*[[Le grand désert d'Arakir -> Assirian.Arakir]]%0a*[[Le Ganon Karo -> Assirian.GanonKaro]]%0a*[[La Citadelle Noire -> Assirian.Citadelle-Noire]]%0a*[[Fencyr -> Assirian.Fencyr]]%0a*[[La Ville du Gouffre -> Assirian.Gouffre]]%0a
+time=1324163040
+author:1324163040=
+diff:1324163040:1323290524:=15d14%0a%3c *[[La Ville du Gouffre -> Assirian.Gouffre]]%0a
+host:1324163040=82.225.66.3
+author:1323290524=
+diff:1323290524:1321717362:=14d13%0a%3c *[[Fencyr -> Assirian.Fencyr]]%0a
+host:1323290524=82.225.66.3
 author:1321717362=
 diff:1321717362:1321717347:=3c3%0a%3c *[[L'Empire d'Oshimo -> Assirian.Empire]] et [[Shotrakino -> Assirian.Capitale]] sa capitale%0a---%0a> *[[L'Empire d'Oshimo -> Assirian.Empire]] et [[Shotrakino sa capitale -> Assirian.Capitale]]%0a
 host:1321717362=82.225.66.3

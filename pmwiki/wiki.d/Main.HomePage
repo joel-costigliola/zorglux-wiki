@@ -1,13 +1,22 @@
 version=pmwiki-2.1.27 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (X11; Linux x86_64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+agent=Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
 author=
 csum=
 host=82.225.66.3
 name=Main.HomePage
-rev=239
-targets=Assirian.Personnages,Assirian.Lieux,Zorglux.Nouvelle-Ere
-text=\\%0aBienvenue à toi voyageur,%0a%0aIci sont racontées les légendes des contrées d'Assirian, témoignages d'une histoire remontant à plusieurs millénaires où des empires s'érigent et disparaissent, où des races et des peuples s'affrontent, où des personnages légendaires changent le destin du monde.%0a%0aCes récits souvent romancés mais toujours emprunt de vérité, nous font découvrir les [[personnages mythiques -> Assirian.Personnages]] et les [[lieux extraordinaires -> Assirian.Lieux]] d'Assirian.%0a%0aLe dernier récit gravé dans les légendes d'Assirian s'intitule : [[Une nouvelle ère -> Zorglux.Nouvelle-Ere]].  %0a
-time=1318099072
+rev=242
+targets=Assirian.Personnages,Assirian.Lieux,Assirian.Depart-Gouffre
+text=\\%0aBienvenue à toi voyageur,%0a%0aIci sont racontées les légendes des contrées d'Assirian, témoignages d'une histoire remontant à plusieurs millénaires où des empires s'érigent et disparaissent, où des races et des peuples s'affrontent, où des personnages légendaires changent le destin du monde.%0a%0aCes récits souvent romancés mais toujours emprunt de vérité, nous font découvrir les [[personnages mythiques -> Assirian.Personnages]] et les [[lieux extraordinaires -> Assirian.Lieux]] d'Assirian.%0a%0aLe dernier récit gravé dans les légendes d'Assirian s'intitule : [[Vers la ville du Gouffre -> Assirian.Depart-Gouffre]].%0a
+time=1326555391
+author:1326555391=
+diff:1326555391:1323456365:=8c8%0a%3c Le dernier récit gravé dans les légendes d'Assirian s'intitule : [[Vers la ville du Gouffre -> Assirian.Depart-Gouffre]].%0a---%0a> Le dernier récit gravé dans les légendes d'Assirian s'intitule : [[Le retour de Boris -> Zorglux.Retour-Boris]].%0a
+host:1326555391=82.225.66.3
+author:1323456365=
+diff:1323456365:1323456349:=8c8%0a%3c Le dernier récit gravé dans les légendes d'Assirian s'intitule : [[Le retour de Boris -> Zorglux.Retour-Boris]].%0a---%0a> Le dernier récit gravé dans les légendes d'Assirian s'intitule : [[Une nouvelle ère -> Zorglux.Retour-Boris]].%0a
+host:1323456365=82.225.66.3
+author:1323456349=
+diff:1323456349:1318099072:=8c8%0a%3c Le dernier récit gravé dans les légendes d'Assirian s'intitule : [[Une nouvelle ère -> Zorglux.Retour-Boris]].%0a---%0a> Le dernier récit gravé dans les légendes d'Assirian s'intitule : [[Une nouvelle ère -> Zorglux.Nouvelle-Ere]].  %0a
+host:1323456349=82.225.66.3
 author:1318099072=
 diff:1318099072:1318099060:=5d4%0a%3c %0a
 host:1318099072=82.225.66.3

@@ -1,14 +1,17 @@
 version=pmwiki-2.1.27 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (X11; Linux x86_64; rv:2.0) Gecko/20100101 Firefox/4.0
+agent=Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
 author=
 csum=
 ctime=1259103475
 host=82.225.66.3
 name=Assirian.Clara
-rev=4
+rev=5
 targets=Assirian.Sarik
-text=!!Clara%0a%0aFille de [[Sarik Al Keran -> Assirian.Sarik]] et d'une shamane d'amérique du sud, elle a hérité de ma nature de Dragon.\\%0aElle a bâtit un empire sur Terre, elle est d'une grande droiture et un caractère bien forgé.%0a%0aMa première rencontre avec elle remonte à mon deuxième voyage sur Terre dans lequel m'accompagnait Loki.\\%0aClara a poursuivi avec nous la quête nous amenant dans le passé de la terre à l'époque des Atlantes qui avait écrit les tables trouvées à Bark Nark.\\%0aElle est resté avec Loki visiter Arkadia alors que j'allais explorer les Contrées de la Nuit Éternelle.%0a%0a%0a
-time=1302205451
+text=!!Clara%0a%0aFille de [[Sarik Al Keran -> Assirian.Sarik]] et d'une shamane d'amérique du sud, elle a hérité de ma nature de Dragon.\\%0aElle a bâtit un empire sur Terre, elle est d'une grande droiture et possède un caractère bien forgé. C'est une personne plus complexe qu'il n'y parait de premier abord.%0a%0aMa première rencontre avec elle remonte à mon deuxième voyage sur Terre dans lequel m'accompagnait Loki.\\%0aClara a poursuivi avec nous la quête nous amenant dans le passé de la terre à l'époque des Atlantes qui avaientt écrit les tables trouvées à Bark Nark.\\%0aElle est resté avec Loki visiter Arkadia alors que j'allais explorer les Contrées de la Nuit Éternelle.%0a%0a%0a
+time=1326554673
+author:1326554673=
+diff:1326554673:1302205451:=4,5c4,5%0a%3c Elle a bâtit un empire sur Terre, elle est d'une grande droiture et possède un caractère bien forgé. C'est une personne plus complexe qu'il n'y parait de premier abord.%0a%3c %0a---%0a> Elle a bâtit un empire sur Terre, elle est d'une grande droiture et un caractère bien forgé.%0a> %0a7c7%0a%3c Clara a poursuivi avec nous la quête nous amenant dans le passé de la terre à l'époque des Atlantes qui avaientt écrit les tables trouvées à Bark Nark.\\%0a---%0a> Clara a poursuivi avec nous la quête nous amenant dans le passé de la terre à l'époque des Atlantes qui avait écrit les tables trouvées à Bark Nark.\\%0a
+host:1326554673=82.225.66.3
 author:1302205451=
 diff:1302205451:1302205434:=6,7c6,7%0a%3c Ma première rencontre avec elle remonte à mon deuxième voyage sur Terre dans lequel m'accompagnait Loki.\\%0a%3c Clara a poursuivi avec nous la quête nous amenant dans le passé de la terre à l'époque des Atlantes qui avait écrit les tables trouvées à Bark Nark.\\%0a---%0a> Ma première rencontre avec elle remonte à mon deuxième voyage sur Terre dans lequel m'accompagnait Loki.%0a> Clara a poursuivi avec nous la quête nous amenant dans le passé de la terre à l'époque des Atlantes qui avait écrit les tables trouvées à Bark Nark.%0a
 host:1302205451=82.225.66.3

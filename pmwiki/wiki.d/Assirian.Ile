@@ -1,14 +1,17 @@
 version=pmwiki-2.1.27 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (X11; Linux x86_64; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+agent=Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0
 author=
 csum=
 ctime=1187184457
 host=82.225.66.3
 name=Assirian.Ile
-rev=21
+rev=22
 targets=Assirian.Ngark,Assirian.Sarik,Assirian.Sigfried,Assirian.Nicholaï
-text=!!L'Ile du Pic de l'Aiguille%0a%0aCette contrée - qui est aussi l'Ile de Swog - est protégée par [[N'Gark -> Assirian.Ngark]] le Dragon de l'Ile.\\%0aCe dernier a fondé, avec un cercle de personnages remarquables, la '''Retraite''' un lieu au coeur même du Pic de l'Aiguille, une demeure, un refuge.%0a%0a----%0a%25rframe%25 http://joel.costi.free.fr/pmwiki/pub/skins/assirian/symbole-retraite-ile-du-pic.png | Symbole de l'Ile%0a!!Cercle des Fondateurs de la Retraite%0a%0aChaque fondateur a apporté un concept à la Retraite%0a%0a*[[N'Gark -> Assirian.Ngark]]         : L'Unité%0a*[[Sarik Al Keran -> Assirian.Sarik]] : La Complexité de la Vie%0a*[[Sigfried-> Assirian.Sigfried]]     : La Mer%0a*Lianazel       : L'Intemporalité%0a*[[Nicholaï -> Assirian.Nicholaï]] : La Supériorité%0a*Jade           : L'Amour%0a*Estefanos      : La Puissance et la Droiture%0a*Siocrate       : Le Paradis%0a*Ti-Risk        : (le courroux ?)%0a%0aL’Île du Pic est protégée par une tempête perpétuelle qui forme une barrière presque infranchissable pour qui n'est pas "invité".\\%0aLes fonds marins sont parcourus de puissants courants et gardés par un Kraken Géant (et je ne parle pas des autres monstres gigantesques y demeurant).%0a%0a----%0a!!Les habitants de l’Île%0a%0aLes êtres qui sont nés sur l’Île sont multi-réalité, cela siginifie que leurs dons/pouvoirs sont efficients dans n'importe quelle partie du monde d'Assirian.%0a%0a
-time=1316879988
+text=!!L'Ile du Pic de l'Aiguille%0a%0aCette contrée - qui est aussi l'Ile de Swog - est protégée par [[N'Gark -> Assirian.Ngark]] le Dragon de l'Ile.\\%0aCe dernier a fondé, avec un cercle de personnages remarquables, la '''Retraite''' un lieu au coeur même du Pic de l'Aiguille, une demeure, un refuge.%0a%0a----%0a%25rframe%25 http://joel.costi.free.fr/pmwiki/pub/skins/assirian/symbole-retraite-ile-du-pic.png | Symbole de l'Ile%0a!!Cercle des Fondateurs de la Retraite%0a%0aChaque fondateur a apporté un concept à la Retraite%0a%0a*[[N'Gark -> Assirian.Ngark]]         : L'Unité%0a*[[Sarik Al Keran -> Assirian.Sarik]] : La Complexité de la Vie%0a*[[Sigfried-> Assirian.Sigfried]]     : La Mer%0a*Lianazel       : L'Intemporalité%0a*[[Nicholaï -> Assirian.Nicholaï]] : La Supériorité%0a*Jade           : L'Amour%0a*Estefanos      : La Puissance et la Droiture%0a*Siocrate       : Le Paradis%0a*Ti-Risk        : (le courroux ?)%0a%0aL’Île du Pic est protégée par une tempête perpétuelle qui forme une barrière presque infranchissable pour qui n'est pas "invité".\\%0aLes fonds marins sont parcourus de puissants courants et gardés par un Kraken Géant (et je ne parle pas des autres monstres gigantesques y demeurant).%0a%0a----%0a!!Les habitants de l’Île%0a%0aLes êtres qui sont nés sur l’Île sont multi-réalité, cela siginifie que leurs dons/pouvoirs sont efficients dans n'importe quelle partie du monde d'Assirian.%0a%0a----%0a!!Politique%0a%0aL'ambassadeur de l’Île du Pic à Padryn se nomme Felgald Lael.
+time=1323457750
+author:1323457750=
+diff:1323457750:1316879988:=30,33d29%0a%3c ----%0a%3c !!Politique%0a%3c %0a%3c L'ambassadeur de l’Île du Pic à Padryn se nomme Felgald Lael.%0a\ No newline at end of file%0a
+host:1323457750=82.225.66.3
 author:1316879988=
 diff:1316879988:1189463134:=22c22%0a%3c L’Île du Pic est protégée par une tempête perpétuelle qui forme une barrière presque infranchissable pour qui n'est pas "invité".\\%0a---%0a> L'Ile du Pic est protégée par une tempête perpétuelle qui forme une barrière presque infranchissable pour qui n'est pas "invité".\\%0a24,29d23%0a%3c %0a%3c ----%0a%3c !!Les habitants de l’Île%0a%3c %0a%3c Les êtres qui sont nés sur l’Île sont multi-réalité, cela siginifie que leurs dons/pouvoirs sont efficients dans n'importe quelle partie du monde d'Assirian.%0a%3c %0a
 host:1316879988=82.225.66.3

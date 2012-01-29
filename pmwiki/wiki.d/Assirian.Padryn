@@ -1,14 +1,17 @@
 version=pmwiki-2.1.27 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (X11; Linux x86_64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+agent=Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0
 author=
 csum=
 ctime=1188333873
 host=82.225.66.3
 name=Assirian.Padryn
-rev=5
+rev=6
 targets=
-text=!!Padryn%0a%0aVille cosmopolite par excellence, Padryn est une place économique et diplomatique de première importance sur Assirian où règne une tolérance hsitorique. La ville est divisée en quartiers communautaires, elfe, homme poisson et homme oiseau en sont les principaux, on trouve aussi des quartiers liés à une activité spécifique tel le quartier marchand, le quartier des ambassades ou le quartier des temples, enfin, il existe des quartiers cosmopolites, souvent pauvres ou au contraire très riches. Comme souvent sur Assirian, l'accès au différentes zones dépend du passe que l'on possède, qui s'acquiert à la milice pour la plupart.%0a%0aElle dirigée par un conclave représentant les principales communautés, dont une communauté elfe très puissante représentée par une famille princière.\\%0aUne Confrérie de Néphilim y a élu domicile œuvrant dans une grande discrétion, elle sert de refuge à de nombreux Nephilim.%0a%0aPadryn est célèbre pour son arène, où l'on peut croiser les meilleurs combattants et assister aux tournois les plus fameux.%0a%0a
-time=1318273412
+text=!!Padryn%0a%0aVille cosmopolite par excellence, Padryn est une place économique et diplomatique de première importance sur Assirian où règne une tolérance hsitorique. La ville est divisée en quartiers communautaires, elfe, homme poisson et homme oiseau en sont les principaux, on trouve aussi des quartiers liés à une activité spécifique tel le quartier marchand, le quartier des ambassades ou le quartier des temples, enfin, il existe des quartiers cosmopolites, souvent pauvres ou au contraire très riches. Comme souvent sur Assirian, l'accès au différentes zones dépend du passe que l'on possède, qui s'acquiert à la milice pour la plupart.%0a%0aElle dirigée par un conclave représentant les principales communautés, dont une communauté elfe très puissante représentée par une famille princière.\\%0aUne Confrérie de Néphilim y a élu domicile œuvrant dans une grande discrétion, elle sert de refuge à de nombreux Nephilim.%0a%0aPadryn est célèbre pour son arène, où l'on peut croiser les meilleurs combattants et assister aux tournois les plus fameux.%0a%0aL'ambassadeur de l’Île du Pic à Padryn se nomme Felgald Lael.%0a%0a
+time=1323457715
+author:1323457715=
+diff:1323457715:1318273412:=10,11d9%0a%3c L'ambassadeur de l’Île du Pic à Padryn se nomme Felgald Lael.%0a%3c %0a
+host:1323457715=82.225.66.3
 author:1318273412=
 diff:1318273412:1318273299:=3,4c3,4%0a%3c Ville cosmopolite par excellence, Padryn est une place économique et diplomatique de première importance sur Assirian où règne une tolérance hsitorique. La ville est divisée en quartiers communautaires, elfe, homme poisson et homme oiseau en sont les principaux, on trouve aussi des quartiers liés à une activité spécifique tel le quartier marchand, le quartier des ambassades ou le quartier des temples, enfin, il existe des quartiers cosmopolites, souvent pauvres ou au contraire très riches. Comme souvent sur Assirian, l'accès au différentes zones dépend du passe que l'on possède, qui s'acquiert à la milice pour la plupart.%0a%3c %0a---%0a> Ville cosmopolite par excellence, Padryn est une place économique et diplomatique de première importance sur Assirian où règne une tolérance hsitorique. La ville est divisée en quartiers communautaires, elfe, homme poisson et homme oiseau en sont les principaux, on trouve aussi des quartiers liés à une activité spécifique tel le quartier marchand, le quartier des ambassades ou le quartier des temples, enfin, il existe des quartiers cosmopolites, souvent pauvres ou au contraire très riches.%0a> %0a9d8%0a%3c %0a
 host:1318273412=82.225.66.3
