@@ -1,14 +1,17 @@
 version=pmwiki-2.1.27 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
 author=
 csum=
 ctime=1187305837
 host=82.225.66.3
 name=Assirian.Boris
-rev=12
+rev=13
 targets=Assirian.Sarik,Assirian.Ouram,Zorglux.Nouvelle-Ere
-text=!!Boris/Amarik%0a%0aNom de Néphilim : '''là où la foudre frappe deux fois au même endroit''' %0a%0aMembre de la fratrie réunissant [[Sarik -> Assirian.Sarik]] et [[Ouram -> Assirian.Ouram]].%0a%0aBoris (l'ancien corps d'Amarik) était un terrien aussi frêle physiquement qu'il a mauvais caractère, c'était un psioniste de grand talent.%0a%0aBoris est mort lors de la [[destruction de la Citadelle Noire -> Zorglux.Nouvelle-Ere]], il s'est réincarné dans le corps d'un jeune terrien du nom d'Amarik qui possède le pouvoir de s'approprier le don d'une personne.%0a%0aKa Principal : Ka de la tempête %0a%0aLe Ka de la tempête est très rare parmi les Nephilims, il permet à Amarik de vivre dans une bulle de réalité (limité à son corps) et de changer cette réalité en réécrivant les événements qui lui sont arrivés, il peut par exemple survivre à une blessure en changeant l'histoire de telle sorte que cette blessure n'ai pas eu lieu.%0a%0aQuête du Surayin (Diadème décuplant ses pouvoirs mentaux)%0a* Une plume d'oiseau invisible ''(quête achevée)''%0a* La bénédiction d'un Élémentaire Majeur des Tempêtes ''(quête achevée)''%0a* Une Langue de Dragon Bleu
-time=1326656766
+text=!!Boris/Amarik%0a%0aNom de Néphilim : '''là où la foudre frappe deux fois au même endroit''' ou '''Le piaillement des Mille Oiseaux'''%0a%0aMembre de la fratrie réunissant [[Sarik -> Assirian.Sarik]] et [[Ouram -> Assirian.Ouram]].%0a%0aBoris (l'ancien corps d'Amarik) était un terrien aussi frêle physiquement qu'il a mauvais caractère, c'était un psioniste de grand talent.%0a%0aBoris est mort lors de la [[destruction de la Citadelle Noire -> Zorglux.Nouvelle-Ere]], il s'est réincarné dans le corps d'un jeune terrien du nom d'Amarik qui possède le pouvoir de s'approprier le don d'une personne.%0a%0aKa Principal : Ka de la tempête %0a%0aLe Ka de la tempête est très rare parmi les Nephilims, il permet à Amarik de vivre dans une bulle de réalité (limité à son corps) et de changer cette réalité en réécrivant les événements qui lui sont arrivés, il peut par exemple survivre à une blessure en changeant l'histoire de telle sorte que cette blessure n'ai pas eu lieu.%0a%0aQuête du Surayin (Diadème décuplant ses pouvoirs mentaux)%0a* Une plume d'oiseau invisible ''(quête achevée)''%0a* La bénédiction d'un Élémentaire Majeur des Tempêtes ''(quête achevée)''%0a* Une Langue de Dragon Bleu
+time=1329940522
+author:1329940522=
+diff:1329940522:1326656766:=3,4c3,4%0a%3c Nom de Néphilim : '''là où la foudre frappe deux fois au même endroit''' ou '''Le piaillement des Mille Oiseaux'''%0a%3c %0a---%0a> Nom de Néphilim : '''là où la foudre frappe deux fois au même endroit''' %0a> %0a
+host:1329940522=82.225.66.3
 author:1326656766=
 diff:1326656766:1326556553:=7,8c7,8%0a%3c Boris (l'ancien corps d'Amarik) était un terrien aussi frêle physiquement qu'il a mauvais caractère, c'était un psioniste de grand talent.%0a%3c %0a---%0a> Boris/Amarik est un terrien aussi frêle physiquement qu'il a mauvais caractère, c'est un psioniste de grand talent.%0a> %0a
 host:1326656766=82.225.66.3
