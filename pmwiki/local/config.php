@@ -42,7 +42,8 @@ $Skin = 'assirian';
 ## the "attr" passwords for the PmWiki and Main groups are locked, so
 ## an admin password is a good way to unlock those.  See PmWiki.Passwords
 ## and PmWiki.PasswordsAdmin.
-# $DefaultPasswords['admin'] = crypt('secret');
+$DefaultPasswords['admin'] = crypt('zorglux');
+$DefaultPasswords['edit'] = crypt('zorglux'); 
 
 ##  PmWiki comes with graphical user interface buttons for editing;
 ##  to enable these buttons, set $EnableGUIButtons to 1.  

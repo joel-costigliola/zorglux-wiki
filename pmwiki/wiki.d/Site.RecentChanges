@@ -1,8 +1,8 @@
 version=pmwiki-2.1.27 ordered=1 urlencoded=1
-agent=Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
 ctime=1185917391
-host=95.170.128.58
+host=82.225.66.3
 name=Site.RecentChanges
-rev=237
-text=* [[Site/SideBar]]  . . . February 28, 2012, at 10:32 PM by [[~ian1938]]: [=UFVkYrhrhBoK=]%0a
-time=1330464755
+rev=340
+text=* [[Site/SideBar]]  . . . February 29, 2012, at 10:53 PM by ?: [==]%0a
+time=1330552398
