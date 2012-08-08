@@ -1,14 +1,32 @@
 version=pmwiki-2.1.27 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (X11; Linux x86_64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:13.0) Gecko/20100101 Firefox/13.0.1
 author=
 csum=
 ctime=1291329099
 host=82.225.66.3
 name=Assirian.Sarik-Combat
-rev=16
-targets=
-text=!!Sarik Al Keran au combat%0a%0a\\%0a%0aMême s'il n'est pas un combattant dans l'âme, Sarik a une certaine expérience du combat.\\%0aIl a beaucoup pratiqué le combat à mains nues, ses armes de prédilections sont les armes moyennes tel le sabre.%0a%0aSarik connaît instinctivement la portée d'attaque de son adversaire, il a une représentation mentale de sa sphère d'influence, il arrive même parfois à anticiper les prochaines frappes de son adversaire. %0a%0a----%0a%0a'''Scores de combats'''%0a%0a{+Poinst de vie+} : 609 (1D30+10 par niveau)\\%0a{+Actions/round+} : 5\\%0a{+Initiative+} : 42%0a%0a|| class=fight border=1 cellspacing=0 %0a||[[Mains Nues -> #Mains-Nues]] 	||68 ||10 a/r||[[Armes à distance -> #Armes-distance]] 	||60 ||%0a||[[Armes légères -> #Arme-legere]] 	||46 ||5 a/r ||[[Armes de jet -> #Armes-jet]] 		||56 ||%0a||[[Armes moyennes -> #Armes-moyennes]] ||54 ||8 a/r ||[[Esquive -> #Esquive]] 			||84 ||%0a||[[Armes lourdes -> #Armes-lourdes]] 	||60 ||5 a/r ||[[Esquive air-> #Esquive-air]]		||69 ||%0a||[[Parade -> #Parade]] 		||63 ||5 a/r ||[[Bouclier -> #Bouclier]] 		||46? ||%0a%0a----%0a%0a!!!!!Mains Nues%0a%0aTechnicien niveau 5 :%0a* actions/round +5%0a* dégâts 1D6 + 6 / kritik + 1%0a* enchaînement roulade + coup : 6%25%0a* flip-flap + coup de pied : 5%25%0a%0aSarik utilise 6-Lames avec son score de Main Nues (à la place de son score de légère) mais des dégâts sur la table des légères.%0a%0a!!!!!Sabre%0a%0aTechnicien niveau 3 au sabre%0a* actions/round +3%0a* ''(à préciser)''%0a%0a!!!!!Protection%0aSarik a une protection naturelle de K-2 / C-1 / P-1.
-time=1321716614
+rev=22
+targets=Assirian.Sarik-Possessions
+text=!!Sarik Al Keran au combat%0a%0a\\%0a%0aMême s'il n'est pas un combattant dans l'âme, Sarik a une certaine expérience du combat.\\%0aIl a beaucoup pratiqué le combat à mains nues, ses armes de prédilections sont les armes moyennes tel le sabre.%0a%0aSarik connaît instinctivement la portée d'attaque de son adversaire, il a une représentation mentale de sa sphère d'influence, il arrive même parfois à anticiper les prochaines frappes de son adversaire. %0a%0a----%0a%0a'''Scores de combats'''%0a%0a{+Poinst de vie+} : 609 (1D30+10 par niveau)\\%0a{+Actions/round+} : 5\\%0a{+Initiative+} : 43%0a%0a|| class=fight border=1 cellspacing=0 %0a||[[Mains Nues -> #Mains-Nues]] 	||70 ||10 a/r||[[Armes à distance -> #Armes-distance]] 	||62 ||%0a||[[Armes légères -> #Arme-legere]] 	||47 ||5 a/r ||[[Armes de jet -> #Armes-jet]] 		||57 ||%0a||[[Armes moyennes -> #Armes-moyennes]] ||55 ||8 a/r ||[[Esquive -> #Esquive]] 			||86 ||%0a||[[Armes lourdes -> #Armes-lourdes]] 	||62 ||5 a/r ||[[Esquive air-> #Esquive-air]]		||63 ||%0a||[[Parade -> #Parade]] 		||65 ||5 a/r ||[[Bouclier -> #Bouclier]] 		||77 ||%0a%0a----%0a%0a!!!!!Mains Nues%0a%0aTechnicien niveau 5 :%0a* actions/round +5%0a* dégâts 1D6 + 6 / kritik + 1%0a* enchaînement roulade + coup : 6%25%0a* flip-flap + coup de pied : 5%25%0a* meilleurs enchaînements et prises%0a* gestion de la distance%0a* utilisation du Ka comme Chi%0a%0aSarik utilise [[6-Lames -> Assirian.Sarik-Possessions#six-lames]] avec son score de Main Nues (à la place de son score de légère) mais des dégâts sur la table des légères.%0a%0a%0a!!!!!Sabre%0a%0aTechnicien niveau 3 au sabre%0a* actions/round +3%0a* ''(à préciser)''%0a%0a!!!!!Protection%0aSarik a une protection naturelle de K-2 / C-1 / P-1.%0a%0aAvec Yeolia, la protection passe à%0a* K-10 / C-9 / P-9  pour le cou, les épaules, les genoux et les coudes%0a* K-8 / C-7 / P-7 sur le reste du corps%0a
+time=1341863785
+author:1341863785=
+diff:1341863785:1341863749:=38,40c38,40%0a%3c Sarik utilise [[6-Lames -> Assirian.Sarik-Possessions#six-lames]] avec son score de Main Nues (à la place de son score de légère) mais des dégâts sur la table des légères.%0a%3c %0a%3c %0a---%0a> Sarik utilise 6-Lames avec son score de Main Nues (à la place de son score de légère) mais des dégâts sur la table des légères.%0a> %0a> %0a
+host:1341863785=82.225.66.3
+author:1341863749=
+diff:1341863749:1341863492:=16,17c16,17%0a%3c {+Initiative+} : 43%0a%3c %0a---%0a> {+Initiative+} : 42%0a> %0a19,24c19,24%0a%3c ||[[Mains Nues -> #Mains-Nues]] 	||70 ||10 a/r||[[Armes à distance -> #Armes-distance]] 	||62 ||%0a%3c ||[[Armes légères -> #Arme-legere]] 	||47 ||5 a/r ||[[Armes de jet -> #Armes-jet]] 		||57 ||%0a%3c ||[[Armes moyennes -> #Armes-moyennes]] ||55 ||8 a/r ||[[Esquive -> #Esquive]] 			||86 ||%0a%3c ||[[Armes lourdes -> #Armes-lourdes]] 	||62 ||5 a/r ||[[Esquive air-> #Esquive-air]]		||63 ||%0a%3c ||[[Parade -> #Parade]] 		||65 ||5 a/r ||[[Bouclier -> #Bouclier]] 		||77 ||%0a%3c %0a---%0a> ||[[Mains Nues -> #Mains-Nues]] 	||68 ||10 a/r||[[Armes à distance -> #Armes-distance]] 	||60 ||%0a> ||[[Armes légères -> #Arme-legere]] 	||46 ||5 a/r ||[[Armes de jet -> #Armes-jet]] 		||56 ||%0a> ||[[Armes moyennes -> #Armes-moyennes]] ||54 ||8 a/r ||[[Esquive -> #Esquive]] 			||84 ||%0a> ||[[Armes lourdes -> #Armes-lourdes]] 	||60 ||5 a/r ||[[Esquive air-> #Esquive-air]]		||69 ||%0a> ||[[Parade -> #Parade]] 		||63 ||5 a/r ||[[Bouclier -> #Bouclier]] 		||46? ||%0a> %0a
+host:1341863749=82.225.66.3
+author:1341863492=
+diff:1341863492:1330866785:=34,37c34%0a%3c * meilleurs enchaînements et prises%0a%3c * gestion de la distance%0a%3c * utilisation du Ka comme Chi%0a%3c %0a---%0a> %0a40d36%0a%3c %0a
+host:1341863492=82.225.66.3
+author:1330866785=
+diff:1330866785:1330866763:=47c47%0a%3c * K-10 / C-9 / P-9  pour le cou, les épaules, les genoux et les coudes%0a---%0a> * K-10 / C-9 / P-9  pour le cou, épaules, genoux et coudes%0a
+host:1330866785=82.225.66.3
+author:1330866763=
+diff:1330866763:1330866710:=47,48c47,48%0a%3c * K-10 / C-9 / P-9  pour le cou, épaules, genoux et coudes%0a%3c * K-8 / C-7 / P-7 sur le reste du corps%0a---%0a> * K-8 / C-7 / P-7 partout sauf :%0a> * K-10 / C-9 / P-9 niveau : cou, épaules, genoux et coudes%0a\ No newline at end of file%0a
+host:1330866763=82.225.66.3
+author:1330866710=
+diff:1330866710:1321716614:=44,48c44%0a%3c Sarik a une protection naturelle de K-2 / C-1 / P-1.%0a%3c %0a%3c Avec Yeolia, la protection passe à%0a%3c * K-8 / C-7 / P-7 partout sauf :%0a%3c * K-10 / C-9 / P-9 niveau : cou, épaules, genoux et coudes%0a\ No newline at end of file%0a---%0a> Sarik a une protection naturelle de K-2 / C-1 / P-1.%0a\ No newline at end of file%0a
+host:1330866710=82.225.66.3
 author:1321716614=
 diff:1321716614:1318876638:=29c29%0a%3c Technicien niveau 5 :%0a---%0a> Technicien niveau 4 :%0a35,36d34%0a%3c Sarik utilise 6-Lames avec son score de Main Nues (à la place de son score de légère) mais des dégâts sur la table des légères.%0a%3c %0a
 host:1321716614=82.225.66.3

@@ -1,14 +1,17 @@
 version=pmwiki-2.1.27 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Ubuntu; X11; Linux x86_64; rv:8.0) Gecko/20100101 Firefox/8.0
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:11.0) Gecko/20100101 Firefox/11.0
 author=
 csum=
 ctime=1323292649
 host=82.225.66.3
 name=Assirian.Mirsin
-rev=2
+rev=3
 targets=
-text=!! Mirsin la Reine des Hommes-Oiseaux%0a%0aAussi connue comme la Grand Mère de Volants, Mirsin représente les communautés homme-oiseau et homme-bête de Padryn, elle est aussi très apprécié dans la communauté humaine pour sa grande sagesse.%0a%0aMirsin est aussi la Grande Prêtresse de Nature et dirige le temple de Padryn.%0a%0a
-time=1323292745
+text=!! Mirsin la Reine des Hommes-Oiseaux%0a%0aAussi connue comme la Grand Mère de Volants, Mirsin représente les communautés homme-oiseau et homme-bête de Padryn, elle est aussi très apprécié dans la communauté humaine pour sa grande sagesse.\\%0aMirsin est aussi la Grande Prêtresse de Nature et dirige le temple de Padryn.%0a%0aMirsin a l'apparence d'un ptérodactyle mais ses ailes sont faites des plumes au lieu de membrane.%0a%0a
+time=1333833167
+author:1333833167=
+diff:1333833167:1323292745:=3c3,4%0a%3c Aussi connue comme la Grand Mère de Volants, Mirsin représente les communautés homme-oiseau et homme-bête de Padryn, elle est aussi très apprécié dans la communauté humaine pour sa grande sagesse.\\%0a---%0a> Aussi connue comme la Grand Mère de Volants, Mirsin représente les communautés homme-oiseau et homme-bête de Padryn, elle est aussi très apprécié dans la communauté humaine pour sa grande sagesse.%0a> %0a6,7d6%0a%3c Mirsin a l'apparence d'un ptérodactyle mais ses ailes sont faites des plumes au lieu de membrane.%0a%3c %0a
+host:1333833167=82.225.66.3
 author:1323292745=
 diff:1323292745:1323292649:=1,2c1,2%0a%3c !! Mirsin la Reine des Hommes-Oiseaux%0a%3c %0a---%0a> !! Mirsin la Reine des Hommes-Oiseaux et Grande Prêtresse de Nature%0a> %0a
 host:1323292745=82.225.66.3
